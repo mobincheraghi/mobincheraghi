@@ -46,7 +46,9 @@
 ## 📫 Contact
 
 
-🔗 LinkedIn: linkedin.com/in/mobincheraghi
+🔗 LinkedIn: https://www.linkedin.com/in/mobin-cheraghi-741459423
+.
+.
 📧 Email: work.mobin.cheraghi@gmail.com
 ---
 
