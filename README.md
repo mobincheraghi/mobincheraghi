@@ -19,7 +19,7 @@
 - 💻 IT Support Enthusiast
 - 🐧 Linux User
 - 🛰️ Learning OSINT
-- 📚 Currently studying security pack (Sans sec504 , Sans sec542 , CEH , PWK)
+- 📚 Currently complete security pack (Sans sec504 , Sans sec542 , CEH , PWK)
 
 ---
 
