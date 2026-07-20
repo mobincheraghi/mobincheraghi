@@ -45,10 +45,9 @@
 
 ## 📫 Contact
 
-💼 LinkedIn
 
-**Mobin Cheraghi**
-
+🔗 LinkedIn: linkedin.com/in/mobincheraghi
+📧 Email: work.mobin.cheraghi@gmail.com
 ---
 
 ⭐ Thanks for visiting my profile.
