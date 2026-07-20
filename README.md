@@ -49,6 +49,98 @@ Mission     : Learn • Build • Secure
 
 Status      : ONLINE
 ```
+# 💻 Cyber Terminal
+
+```console
+┌──────────────────────────────────────────────────────────────┐
+│                Mobin Cheraghi Security Console               │
+├──────────────────────────────────────────────────────────────┤
+│ User      : mobincheraghi                                    │
+│ Status    : 🟢 ONLINE                                        │
+│ Role      : Cybersecurity Enthusiast                         │
+│ Focus     : Web Security • Network Security                  │
+│ Platform  : Kali Linux                                       │
+│ Language  : Python                                           │
+│ Mission   : Learn • Build • Secure                           │
+│ Version   : BLACKFOX v1.0                                    │
+└──────────────────────────────────────────────────────────────┘
+
+$ whoami
+Mobin Cheraghi
+
+$ pwd
+/home/mobin
+
+$ current_focus
+✔ Web Application Security
+✔ Network Security
+✔ Python Automation
+✔ IT Support
+
+$ learning_status
+██████████████████░░ 90%
+
+$ echo "Never Stop Learning."
+Never Stop Learning.
+```
+
+---
+
+# 🚀 About Me
+
+I'm passionate about **Cybersecurity**, with a strong interest in **Web Application Security**, **Network Security**, and **IT Support**.
+
+I enjoy understanding how systems work, identifying security weaknesses in controlled environments, and continuously improving my technical skills through hands-on practice, labs, and documentation.
+
+My goal is to build practical security projects, contribute to the community, and grow into a professional penetration tester.
+
+---
+
+## 🎯 Current Learning Journey
+
+```text
+Network Security        ██████████████░░░ 80%
+
+Web Penetration Testing ████████████░░░░ 70%
+
+Python Automation       ████████░░░░░░░░ 50%
+
+Linux                   ███████████████░ 90%
+
+OSINT                   ██████████░░░░░░ 60%
+
+Git & GitHub            ███████████░░░░░ 65%
+```
+
+---
+
+## 🔥 Core Interests
+
+🛡 Web Application Security
+
+🌐 Network Security
+
+🐍 Python Automation
+
+🐧 Linux Administration
+
+🔎 OSINT
+
+🧩 CTF Challenges
+
+⚙ IT Support
+
+📚 Continuous Learning
+
+---
+
+## 📖 Currently Working On
+
+- Building Python tools for security automation
+- Improving Web Application Security knowledge
+- Studying Active Directory fundamentals
+- Creating practical cybersecurity projects for GitHub
+- Expanding networking knowledge through labs
 # 👋 Hi, I'm Mobin Cheraghi
 
 <div align="center">
