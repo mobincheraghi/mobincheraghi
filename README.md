@@ -1,3 +1,57 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,6,12,20&text=Mobin%20Cheraghi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1500&color=FF0000&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Penetration+Testing;IT+Support;Network+Security;Linux+%7C+Python+%7C+OSINT;Learning+Never+Stops..." />
+
+<p>
+
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackaday&logoColor=red"/>
+
+<img src="https://img.shields.io/badge/Network%20Security-darkred?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Penetration%20Testing-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IT%20Support-red?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+# 👋 Welcome
+
+```text
+██████╗ ██╗      █████╗  ██████╗██╗  ██╗███████╗ ██████╗ ██╗  ██╗
+██╔══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔═══██╗╚██╗██╔╝
+██████╔╝██║     ███████║██║     █████╔╝ █████╗  ██║   ██║ ╚███╔╝
+██╔══██╗██║     ██╔══██║██║     ██╔═██╗ ██╔══╝  ██║   ██║ ██╔██╗
+██████╔╝███████╗██║  ██║╚██████╗██║  ██╗██║     ╚██████╔╝██╔╝ ██╗
+╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝
+```
+
+---
+
+## 🖥 SYSTEM STATUS
+
+```bash
+root@mobin:~$ whoami
+
+Name        : Mobin Cheraghi
+
+Role        : Cybersecurity Enthusiast
+
+Focus       : Web Security | Network Security
+
+Operating   : Kali Linux
+
+Language    : Python
+
+Mission     : Learn • Build • Secure
+
+Status      : ONLINE
+```
 # 👋 Hi, I'm Mobin Cheraghi
 
 <div align="center">
