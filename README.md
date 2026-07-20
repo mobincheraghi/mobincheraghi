@@ -19,17 +19,13 @@
 - 💻 IT Support Enthusiast
 - 🐧 Linux User
 - 🛰️ Learning OSINT
-- 📚 Currently studying CCNA & Security+
+- 📚 Currently studying security pack (Sans sec504 , Sans sec542 , CEH , PWK)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
 
@@ -42,9 +38,8 @@
 ## 🎯 Current Goals
 
 - ✅ Improve Web Penetration Testing
-- ✅ Learn Active Directory
-- ✅ Build Python Security Tools
-- ✅ Publish CTF Writeups
+- ✅ Learn MCSE
+- ✅ Learn Python
 
 ---
 
