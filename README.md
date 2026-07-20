@@ -179,6 +179,56 @@ Git & GitHub            ███████████░░░░░ 65%
 </p>
 
 ---
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mobincheraghi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,vscode,github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge"/>
+
+</p>
+
+---
+# 🎯 2026 Roadmap
+
+✅ Build Python Security Tools
+
+✅ Publish Cybersecurity Projects
+
+✅ Learn Active Directory
+
+✅ Improve Web Penetration Testing
+
+✅ Contribute to Open Source
+
+---
+# 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🐍 Python-for-Cybersecurity | Security automation tools |
+| 🌐 Network-Notes | CCNA & Networking Notes |
+| 🔥 BurpSuite-Labs | Burp Suite practice |
+| 🛰️ OSINT-Tools | OSINT Resources |
+| 💀 CTF-Writeups | Writeups and Labs |
 
 ## 🛠️ Tech Stack
 
@@ -200,13 +250,33 @@ Git & GitHub            ███████████░░░░░ 65%
 
 ---
 
-## 📫 Contact
+# 🌍 Connect
 
+<p align="center">
 
-🔗 LinkedIn: https://www.linkedin.com/in/mobin-cheraghi-741459423
-.
-.
-📧 Email: work.mobin.cheraghi@gmail.com
+<a href="https://www.linkedin.com/in/mobin-cheraghi-741459423">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:work.mobin.cheraghi@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+</p>
+
 ---
+<div align="center">
+
+## ⭐ Thanks for visiting my profile
+
+*"Hack ethically. Learn continuously. Build responsibly."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:8B0000"/>
+
+</div>
 
 ⭐ Thanks for visiting my profile.
