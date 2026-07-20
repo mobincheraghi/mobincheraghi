@@ -165,6 +165,20 @@ Git & GitHub            ███████████░░░░░ 65%
 - 📚 Currently complete security pack (Sans sec504 , Sans sec542 , CEH , PWK)
 
 ---
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mobincheraghi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobincheraghi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=mobincheraghi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
