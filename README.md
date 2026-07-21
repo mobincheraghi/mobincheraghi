@@ -177,7 +177,25 @@ Git & GitHub            ███████████░░░░░ 65%
 </p>
 
 ---
+# 🐍 Contribution Snake
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mobincheraghi/mobincheraghi/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mobincheraghi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 # 🎯 2026 Roadmap
 
 - ✅ Build Python Security Tools
