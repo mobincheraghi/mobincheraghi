@@ -177,11 +177,16 @@ Git & GitHub            ███████████░░░░░ 65%
 </p>
 
 ---
-## 🐍 Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mobincheraghi/mobincheraghi/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/mobincheraghi/mobincheraghi/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
 </p>
+
 ---
 
 # 📈 Contribution Graph
